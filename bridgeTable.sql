@@ -112,3 +112,6 @@ SET instructions =
     <br>Heat through and serve.'
 WHERE id = 3;
 
+UPDATE recipe SET imageURL = 'https://images.pexels.com/photos/18932267/pexels-photo-18932267/free-photo-of-ornamental-pumpkins-and-a-plate-with-baked-pastry.jpeg' WHERE id = 1;
+
+
